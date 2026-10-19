@@ -1,0 +1,8 @@
+s-client
+s-server
+*.o
+*.tar.gz
+*.dSYM/
+.DS_Store
+tests/*.bin
+tests/*.out
